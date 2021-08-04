@@ -1,13 +1,10 @@
-- 👋 Hi, I’m @pri93x
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Pri Oliveira
+- 👀  I’m currently learning HTML, CSS, JavaScript, SQL, Java, SCRUM, Cyber Security
+- 🌱 I’m currently working https://web.digitalinnovation.one/track/html-web-developer?tab=path
+- 💞️ I’m looking to collaborate on study groups
+- 📫 How to reach me priscilas.oliveira18@gmail.com
+- Know about my experiences LinkedIN: https://www.linkedin.com/in/priscila-oliveira-33b684b7/
 
-<!---
-pri93x/pri93x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 Em transição de carreira para a área de tecnologia da informação (T.I);
 Bacharela em Publicidade e propaganda realizando MBA em gestão de projetos e processos e cursando o último período de análise e desenvolvimento de sistemas
 Estudo também sobre banco de dados, metodologias ágeis e os fundamentos de QA.
