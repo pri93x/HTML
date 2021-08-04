@@ -5,11 +5,11 @@
 - 📫 How to reach me priscilas.oliveira18@gmail.com
 - Know about my experiences LinkedIN: https://www.linkedin.com/in/priscila-oliveira-33b684b7/
 
-Em transição de carreira para a área de tecnologia da informação (T.I);
-Bacharela em Publicidade e propaganda realizando MBA em gestão de projetos e processos e cursando o último período de análise e desenvolvimento de sistemas
+Em transição de carreira para a área de desenvolvimento e apaixonada por tecnologia, atualmente atuando como analista de projetos.
+Bacharela em Publicidade e propaganda realizando MBA em gestão de projetos e processos, e cursando o último período de análise e desenvolvimento de sistemas
 Estudo também sobre banco de dados, metodologias ágeis e os fundamentos de QA.
 Participo ativamente de bootcamps para aceleração dos conhecimentos.
-Minhas áreas de interesse são: Programação, Quality Assurance/Testes, front end.
+Minhas áreas de interesse são: front end, python, Cyber Security.
 Disponibilidade para parcerias, projetos diversos, voluntariado e colaborar em comunidades de tecnologia.
 
 Hard skills em desenvolvimento:
